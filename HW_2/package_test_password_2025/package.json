@@ -1,0 +1,11 @@
+{
+  "name": "package_test_password_2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgeny Kupriyanov",
+  "license": "ISC",
+  "description": "generation passwords"
+}
