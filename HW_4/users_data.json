@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ivan",
+    "secondName": "Petrov",
+    "age": 30,
+    "city": "Moscow"
+  },
+  {
+    "id": 2,
+    "firstName": "Sergey",
+    "secondName": "Ivanov",
+    "age": 39,
+    "city": "Sochi"
+  },
+  {
+    "id": 4,
+    "firstName": "Victor",
+    "secondName": "Bondar",
+    "age": 56,
+    "city": "Tuapse"
+  },
+  {
+    "id": 4,
+    "firstName": "Ivan",
+    "secondName": "Makarov",
+    "age": 15,
+    "city": "Anapa"
+  }
+]
